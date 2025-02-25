@@ -113,9 +113,9 @@ Here's how to reach me:
 ---
 
 ### 📊 GitHub Stats
-<p>
+<!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikhassaniNU&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
+</p>!-->
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&locale=en" alt="GitHub Stats" />
