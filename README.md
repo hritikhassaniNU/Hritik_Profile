@@ -103,7 +103,7 @@ Here's how to reach me:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
   </a>
   <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Shopify.svg" alt="Shopify" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/435/859/png-clipart-shopify-e-commerce-computer-icons-marketing-marketing-company-text.png" alt="Shopify" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle SQL Database" width="80" height="40"/>
