@@ -59,6 +59,8 @@ Here's how to reach me:
 
 </div>
 
+---
+
 ### 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
@@ -137,3 +139,4 @@ Here's how to reach me:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
