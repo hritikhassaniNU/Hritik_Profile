@@ -27,9 +27,9 @@ Here's how to reach me:
 -->
 
 <h1 align="center">Hi 👋, I'm Hritik Hassani</h1>
-<h3 align="right">A Passionate Full-Stack Developer</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<p align="center">
+<p align="right">
   <img align="center" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 </p>
 
