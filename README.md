@@ -29,25 +29,35 @@ Here's how to reach me:
 <h1 align="center">Hi 👋, I'm Hritik Hassani</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<p align="right">
-  <img align="center" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-</p>
+<div align="center">
+  <img alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+</div>
 
 ---
 
-### 👀 Profile Views  
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hritikhassaniNU&label=Profile%20views&color=0e75b6&style=flat" alt="hritikhassaniNU" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  
+  <!-- Profile Views -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3>👀 Profile Views</h3>
+    <p> 
+      <img src="https://komarev.com/ghpvc/?username=hritikhassaniNU&label=Profile%20views&color=0e75b6&style=flat" alt="hritikhassaniNU" />
+    </p>
+  </div>
 
-### 🚀 About Me
-- 🌱 I’m currently expanding my knowledge in **modern frameworks, system design, and backend development.**  
-- 👨‍💻 Check out my projects on **[GitHub](https://github.com/hritikhassaniNU)**  
-- 💬 Ask me about **React, Next.js, JavaScript, and backend technologies**  
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/hritik-hassani/)**  
-- ⚡ Fun fact: **I think I am funny 😆**  
+  <!-- About Me -->
+  <div style="flex: 2; min-width: 300px;">
+    <h3>🚀 About Me</h3>
+    <ul>
+      <li>🌱 I’m currently expanding my knowledge in <b>modern frameworks, system design, and backend development.</b></li>
+      <li>👨‍💻 Check out my projects on <a href="https://github.com/hritikhassaniNU"><b>GitHub</b></a></li>
+      <li>💬 Ask me about <b>React, Next.js, JavaScript, and backend technologies</b></li>
+      <li>📫 Reach me via <a href="https://www.linkedin.com/in/hritik-hassani/"><b>LinkedIn</b></a></li>
+      <li>⚡ Fun fact: <b>I think I am funny 😆</b></li>
+    </ul>
+  </div>
 
----
+</div>
 
 ### 🛠️ Technologies & Tools
 <p align="left">
